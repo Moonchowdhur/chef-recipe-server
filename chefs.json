@@ -58,5 +58,36 @@
       "rating": "4.2",
       "method": "Stir together flour, baking powder, sugar, and salt in a bowl. Cut in butter until mixture is crumbly. Stir in milk and mix until a batter forms that is thick enough to be scooped with a spoon. Allow batter to rest for 3 to 5 minutes. Drop batter by spoonfuls into boiling stew or soup. Cover and simmer without lifting the lid for 15 minutes. Serve.Serve hot and enjoy!"
     }
+  },
+  {
+    "id": "3",
+    "name": "Kuna Kapoor",
+    "picture": "https://i.pinimg.com/564x/22/4b/6b/224b6ba2fc6ede709f4b29266b402855.jpg",
+    "expricence": "30",
+    "bio": "We love sharing our cooking techniques, tips and tricks and findings with you.",
+    "recipeno": "20",
+    "likes": "25K",
+
+    "recipe1": {
+      "pic": "https://media.istockphoto.com/id/155278138/photo/sweet-and-sour-pork.jpg?s=612x612&w=0&k=20&c=Iy4HyTWtUaLTt5tMV8RomrluZ7EYUugFfDsHm71203I=",
+      "recipe_name": "Sweet and Sour Pork",
+      "ingredients": "Boneless chicken,olive oil,cornstarch, and vegetables, sweet and sour sauce, and mashed garlic ",
+      "rating": "4.2",
+      "method": "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade. Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour.In a large wok or large skillet, heat olive oil over medium-high heat until oil is hot. Coat pork with cornstarch and fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside.Add bell pepper, stirring 1 minute. Add your Sauce, stirring to coat well and heat through, about 2 minutes."
+    },
+    "recipe2": {
+      "pic": "https://media.istockphoto.com/id/155278138/photo/sweet-and-sour-pork.jpg?s=612x612&w=0&k=20&c=Iy4HyTWtUaLTt5tMV8RomrluZ7EYUugFfDsHm71203I=",
+      "recipe_name": "Dumplings",
+      "ingredients": "Boneless chicken, and vegetables, and garlic,baking powder,olive oil,cornstarch,",
+      "rating": "4.2",
+      "method": "Stir together flour, baking powder, sugar, and salt in a bowl. Cut in butter until mixture is crumbly. Stir in milk and mix until a batter forms that is thick enough to be scooped with a spoon. Allow batter to rest for 3 to 5 minutes. Drop batter by spoonfuls into boiling stew or soup. Cover and simmer without lifting the lid for 15 minutes. Serve.Serve hot and enjoy!"
+    },
+    "recipe3": {
+      "pic": "https://media.istockphoto.com/id/1198221698/photo/kung-pao-chicken-or-gong-bao-ji-ding-isolated-on-white-background-sichuan-kung-pao-is-chinese.jpg?s=612x612&w=0&k=20&c=MtsdbjsGMG4hrHNkwRDJm0O89X-V_BIxGow_wSdjDFk=",
+      "recipe_name": "Kung Pao Chicken",
+      "ingredients": "Skinless chicken,olive oil,cornstarch, and vegetables, sweet and sour sauce, and mashed garlic ",
+      "rating": "4.5",
+      "method": "Towel dry chicken pieces to remove excess liquid. Place chicken in a bowl and add all Marinade ingredients, stirring until all cornstarch is fully dissolved. Set aside.In a bowl, combine all Sauce ingredients and stir well until cornstarch is fully dissolved. Set aside. In a large wok or large skillet, heat olive oil over medium-high heat until oil is hot. Add chilies, garlic, continually stirring 30 seconds or until fragrant. Add marinated chicken and keep stirring until no longer pink in center, 3-5 minutes. Add bell pepper, stirring 1 minute. Add your Sauce, stirring to coat well and heat through, about 2 minutes."
+    }
   }
 ]
