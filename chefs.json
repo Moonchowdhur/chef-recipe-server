@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Ramen Singh",
+    "name": "Lei Zhihao",
     "picture": "https://i.pinimg.com/564x/87/cb/ca/87cbca3b19212fa120d706d8c0be593f.jpg",
     "expricence": "10",
     "bio": "The kind of chef who makes the best cookies in the world.",
@@ -31,7 +31,7 @@
   },
   {
     "id": "2",
-    "name": "Sanjeeb Singh",
+    "name": "Miam Ning",
     "picture": "https://i.pinimg.com/564x/3a/f3/67/3af367cc63385b92330354f8f2ee4a67.jpg",
     "expricence": "5",
     "bio": "Food lover and a self-proclaimed foodie",
@@ -61,7 +61,7 @@
   },
   {
     "id": "3",
-    "name": "Kuna Kapoor",
+    "name": "Jia Ning",
     "picture": "https://i.pinimg.com/564x/22/4b/6b/224b6ba2fc6ede709f4b29266b402855.jpg",
     "expricence": "30",
     "bio": "We love sharing our cooking techniques, tips and tricks and findings with you.",
@@ -92,7 +92,7 @@
   },
   {
     "id": "4",
-    "name": "Preeti Singh",
+    "name": "Shi Chao",
     "picture": "https://i.pinimg.com/564x/3e/6f/b9/3e6fb9bbda32484d89a6fe346c2adfc5.jpg",
     "expricence": "15",
     "bio": " Our chef is passionate about creating delicious recipes using the finest produce in season",
@@ -122,10 +122,42 @@
   },
   {
     "id": "5",
-    "name": "Mufis Kapoor",
+    "name": "Ping Jun",
     "picture": "https://i.pinimg.com/564x/c5/85/3d/c5853df90015c0a459ec8fa5fb2c31e1.jpg",
     "expricence": "40",
     "bio": "I’m a Chef who loves to share my food with people. I actually get great satisfaction out of making a plate of food that tastes good and makes someone’s day.",
+    "recipeno": "30",
+    "likes": "15K",
+
+    "recipe1": {
+      "pic": "https://media.istockphoto.com/id/697932394/photo/korean-hot-pot-meal-hands-taking-food-with-chopsticks.jpg?s=612x612&w=0&k=20&c=U35S2Iv9O1woJmVohjrg9uM5C11ZAWRl1Qb0RireK6g=",
+      "recipe_name": "Hot Pot",
+      "ingredients": "Boneless chicken,olive oil,cornstarch, and vegetables, sweet and sour sauce, and mashed garlic ",
+      "rating": "4.5",
+      "method": "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade. Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour.In a large wok or large skillet, heat olive oil over medium-high heat until oil is hot. Coat pork with cornstarch and fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside.Add bell pepper, stirring 1 minute. Add your Sauce, stirring to coat well and heat through, about 2 minutes."
+    },
+    "recipe2": {
+      "pic": "https://images.pexels.com/photos/3926123/pexels-photo-3926123.jpeg?cs=srgb&dl=pexels-bishop-tamrakar-3926123.jpg&fm=jpg",
+      "recipe_name": "Chicken Momo",
+      "ingredients": "Boneless chicken, and vegetables, and garlic,baking powder,olive oil,cornstarch,",
+      "rating": "4.1",
+      "method": "Stir together flour, baking powder, sugar, and salt in a bowl. Cut in butter until mixture is crumbly. Stir in milk and mix until a batter forms that is thick enough to be scooped with a spoon. Allow batter to rest for 3 to 5 minutes. Drop batter by spoonfuls into boiling stew or soup. Cover and simmer without lifting the lid for 15 minutes. Serve.Serve hot and enjoy!"
+    },
+    "recipe3": {
+      "pic": "https://t3.ftcdn.net/jpg/04/07/37/94/360_F_407379443_KIdJDRuKDLOSLNT93VN3PfFh8hzGEO9P.jpg",
+      "recipe_name": "Masaledar Chicken Lollipop",
+      "ingredients": "Skinless chicken,olive oil,cornstarch, and vegetables, sweet and sour sauce, and mashed garlic ",
+      "rating": "4.5",
+      "method": "Towel dry chicken pieces to remove excess liquid. Place chicken in a bowl and add all Marinade ingredients, stirring until all cornstarch is fully dissolved. Set aside.In a bowl, combine all Sauce ingredients and stir well until cornstarch is fully dissolved. Set aside. In a large wok or large skillet, heat olive oil over medium-high heat until oil is hot. Add chilies, garlic, continually stirring 30 seconds or until fragrant. Add bell pepper, stirring 1 minute. Add your Sauce, stirring to coat well and heat through, about 2 minutes."
+    }
+  },
+
+  {
+    "id": "6",
+    "name": "Sun Chun",
+    "picture": "https://i.pinimg.com/564x/ed/f0/d2/edf0d2dab0b397b64fdecf0aa29bf5aa.jpg",
+    "expricence": "40",
+    "bio": "I am a chef who loves to cook, grow, and travel.",
     "recipeno": "30",
     "likes": "15K",
 
